@@ -53,6 +53,9 @@ The [analysis](./analysis/) folder contains simple scripts that uses the frames 
 - The [analysis.py](./analysis/analysis.py) script display the peoples in the given frame;
 - The [analysis2.py](./analysis/analysis2.py) script parse the frames, and save the position of the joints into the [data.csv](./analysis/data.csv).
 
+The file is used to generate the animation,
+see [dancing-body](https://observablehq.com/@listenzcc/dancing-body "dancing-body") for detail.
+
 ## Acknowledge
 
 The project is build from the Openpose,
